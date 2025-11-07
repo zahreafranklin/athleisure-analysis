@@ -12,8 +12,10 @@ This project analyzes the evolution of athleisure from everyday comfort wear to 
 
 ## Repository Structure
 /data — cleaned and processed CSVs and the generated CSVs with the average and standardized price distributions
+
 /notebooks — step-by-step data cleaning with visualizations
-/visuals — charts used in analysis as PNGs for easy blog integration
+
+/visualizations — charts used in analysis as PNGs for easy blog integration
 
 ##  Insights
 - Premium athleisure brands show luxury-tier pricing trends.
